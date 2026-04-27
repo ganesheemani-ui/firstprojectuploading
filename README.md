@@ -1,11 +1,11 @@
-# 🏏 Django REST API - Player Management System
+#  Django REST API - Player Management System
 
 A RESTful API built using Django and Django REST Framework to manage player data efficiently.  
 This project demonstrates CRUD operations, API design, and backend development best practices.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Create, Read, Update, Delete (CRUD) player records
 - RESTful API endpoints using Django REST Framework
@@ -15,7 +15,7 @@ This project demonstrates CRUD operations, API design, and backend development b
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Django
@@ -25,7 +25,7 @@ This project demonstrates CRUD operations, API design, and backend development b
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 project/
 │── project/ # Main project settings
 │── team_players/ # App containing models, views, serializers
